@@ -29,8 +29,8 @@ The platform does not allow exporting the full source code.
 ## Screenshots
 
 ![Homepage](Screenshots/Homepage.jpeg)
-![Category Page](Screenshots/CategoryPage.jpeg)
-![Product view](Screenshots/Productview.jpeg)
-![Mobile view](Screenshots/Mobileview.jpeg)
+![Category Page](Screenshots/Category_Page.jpeg)
+![Product view](Screenshots/Product_view.jpeg)
+![Mobile view](Screenshots/Mobile_view.jpeg)
 
 
