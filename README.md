@@ -1,6 +1,6 @@
 # Zudio-style-now-showcase
 
-Showcase of Zudio Smart Fashion website built using Base44 and prompt engineering.
+Showcase of a fashion website inspired by Zudio, built using Base44 and prompt engineering.
 
 🔗 **Live Website**  
 https://zudio-style-now.base44.app
