@@ -25,3 +25,12 @@ The goal was to design a clean, modern UI and a smooth user experience for brows
 ## Note
 This repository is meant for **documentation and portfolio showcase**.  
 The platform does not allow exporting the full source code.
+
+## Screenshots
+
+![Homepage](Screenshots/Homepage.jpeg)
+![Category Page](Screenshots/Category Page.jpeg)
+![Product view](Screenshots/Product view.jpeg)
+![Mobile view](Screenshots/Mobile view.jpeg)
+
+
